@@ -56,14 +56,24 @@
 
 </div>
 ---
+---
+
+<div align="center">
+
+### CONNECT
+
+<br/>
+
 <a href="https://www.linkedin.com/in/logesh07mvit/">
-<img src="./assets/linkedin.svg" width="170" alt="LinkedIn"/>
+  <img src="https://cdn.simpleicons.org/linkedin/5B9CFF" width="32" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/LOGESH__M/">
-<img src="./assets/leetcode.svg" width="170" alt="LeetCode"/>
+  <img src="https://cdn.simpleicons.org/leetcode/F89F1B" width="32" alt="LeetCode"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:logesh07m@gmail.com">
-<img src="./assets/email.svg" width="170" alt="Email"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Email"/>
 </a>
+
+</div>
