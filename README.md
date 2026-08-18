@@ -58,7 +58,6 @@
 
 <div align="center">
 <hr>
----
 
 <div align="center">
 
