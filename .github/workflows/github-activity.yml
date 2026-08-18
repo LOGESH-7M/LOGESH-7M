@@ -24,10 +24,12 @@ jobs:
           import json
           import os
           import urllib.request
+          import sys
 
           query = '''
           query($login:String!) {
             user(login:$login) {
+              login
               contributionsCollection {
                 contributionCalendar {
                   totalContributions
@@ -59,10 +61,25 @@ jobs:
           with urllib.request.urlopen(req) as response:
               payload = json.load(response)
 
-          data = payload["data"]["user"]["contributionsCollection"]
+          print("=== GitHub GraphQL response check ===")
+
+          if "errors" in payload:
+              print(json.dumps(payload["errors"], indent=2))
+              sys.exit("GraphQL returned errors")
+
+          if not payload.get("data") or not payload["data"].get("user"):
+              print(json.dumps(payload, indent=2))
+              sys.exit("GitHub user data missing")
+
+          user = payload["data"]["user"]
+          data = user["contributionsCollection"]
 
           contributions = data["contributionCalendar"]["totalContributions"]
           commits = data["totalCommitContributions"]
+
+          print(f"User: {user['login']}")
+          print(f"Contributions: {contributions}")
+          print(f"Commit contributions: {commits}")
 
           svg = f'''<svg xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 760 125"
@@ -156,12 +173,24 @@ jobs:
               encoding="utf-8"
           ) as f:
               f.write(svg)
-          PY
+
+          print("SVG generated successfully.")
+
+      - name: Show generated values
+        run: |
+          echo "=== Generated SVG values ==="
+          grep -oE '>[-]?[0-9]+</text>' assets/github-activity.svg || true
 
       - name: Commit update
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add assets/github-activity.svg
-          git diff --cached --quiet || git commit -m "chore: update GitHub activity"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No activity change detected."
+          else
+            git commit -m "chore: update GitHub activity"
+            git push
+          fi
