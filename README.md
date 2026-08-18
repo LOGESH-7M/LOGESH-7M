@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/LOGESH-7M">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=5B9CFF&center=true&vCenter=true&width=900&lines=LOGESH+M;CSE+%7C+Cloud+%26+DevOps+Enthusiast;Building+from+Code+to+Cloud;Backend+%7C+Infrastructure+%7C+Systems" alt="Animated typing header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=5B9CFF&center=true&vCenter=true&width=900&lines=LOGESH+M;Cloud+%26+DevOps+Enthusiast;Backend+%7C+Infrastructure+%7C+Systems" alt="Animated typing header"/>
 </a>
 
 <br/>
