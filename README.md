@@ -12,17 +12,25 @@
 
 <br/>
 
-<div align="center">
+<a href="https://www.linkedin.com/in/logesh07mvit/">
+<img src="./assets/linkedin.svg" width="170" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/LOGESH__M/">
+<img src="./assets/leetcode.svg" width="170" alt="LeetCode"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:logesh07m@gmail.com">
+<img src="./assets/email.svg" width="170" alt="Email"/>
+</a>
 
 </div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-###  TECH • STACK
+### TECH • STACK
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,html,css,js,git,github,linux,aws,docker,flask,postgres&perline=8" alt="Technology icons"/>
 
@@ -34,15 +42,9 @@
 
 ### GITHUB ACTIVITY
 
-<img src="./assets/github-activity.svg" alt="GitHub contributions and commit activity" width="100%"/>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LOGESH-7M/LOGESH-7M/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LOGESH-7M/LOGESH-7M/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/LOGESH-7M/LOGESH-7M/output/github-snake.svg" alt="GitHub contribution snake" width="100%"/>
-</picture>
+<a href="https://github.com/LOGESH-7M">
+<img src="https://github-readme-stats.vercel.app/api?username=LOGESH-7M&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&custom_title=" alt="GitHub activity statistics"/>
+</a>
 
 </div>
 
@@ -59,24 +61,19 @@
 <br/><br/>
 
 <a href="https://leetcode.com/u/LOGESH__M/">
-
+<img src="https://leetcard.jacoblin.cool/LOGESH__M?theme=dark&font=Baloo&ext=activity" alt="LeetCode activity"/>
+</a>
 
 </div>
-<a href="https://www.linkedin.com/in/logesh07mvit/">
-<img src="./assets/linkedin.svg" width="170" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/u/LOGESH__M/">
-<img src="./assets/leetcode.svg" width="170" alt="LeetCode"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:logesh07m@gmail.com">
-<img src="./assets/email.svg" width="170" alt="Email"/>
-</a>
 
 ---
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LOGESH-7M/LOGESH-7M/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LOGESH-7M/LOGESH-7M/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/LOGESH-7M/LOGESH-7M/output/github-snake.svg" alt="GitHub contribution snake" width="100%"/>
+</picture>
 
 </div>
