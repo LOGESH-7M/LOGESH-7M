@@ -21,7 +21,7 @@
 <br/>
 
 <div align="center">
-<img src="./assets/profile-atmosphere.svg" alt="Cloud and infrastructure atmosphere" width="100%"/>
+
 </div>
 
 ---
