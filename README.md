@@ -8,7 +8,7 @@
 
 **B.Tech CSE · VIT Vellore · 3rd Sem**
 
-`CSE` · `Cloud` · `DevOps` · `Backend` · `Linux` · `Networking`
+`DevOps` · `Cloud` · `Backend` · `Linux` · `Networking`
 </div>
 
 ---
