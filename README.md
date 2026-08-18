@@ -73,8 +73,5 @@
 
 <div align="center">
 
-<sub>Code → Cloud → Systems</sub>
-
-<br/><br/>
 
 </div>
