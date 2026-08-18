@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="48" viewBox="0 0 170 48">
+<defs>
+<linearGradient id="g" x1="0" x2="1">
+<stop stop-color="#0d1724"/>
+<stop offset="1" stop-color="#142238"/>
+</linearGradient>
+<filter id="glow">
+<feGaussianBlur stdDeviation="2" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<rect x="1" y="1" width="168" height="46" rx="14" fill="url(#g)" stroke="#2684ff" stroke-width="1.5"/>
+<rect x="5" y="5" width="160" height="38" rx="11" fill="none" stroke="#2684ff" stroke-opacity=".2"/>
+<circle cx="29" cy="24" r="13" fill="#0a66c2" filter="url(#glow)"/>
+<text x="29" y="30" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="white">in</text>
+<text x="51" y="29" font-family="Arial" font-size="13" font-weight="700" letter-spacing="1.2" fill="#dceaff">LINKEDIN</text>
+<circle cx="151" cy="24" r="2" fill="#2684ff"/>
+</svg>

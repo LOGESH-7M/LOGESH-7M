@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="48" viewBox="0 0 170 48">
+<defs>
+<linearGradient id="g" x1="0" x2="1">
+<stop stop-color="#180d11"/>
+<stop offset="1" stop-color="#211116"/>
+</linearGradient>
+<filter id="glow">
+<feGaussianBlur stdDeviation="2" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<rect x="1" y="1" width="168" height="46" rx="14" fill="url(#g)" stroke="#e74c5a" stroke-width="1.5"/>
+<rect x="5" y="5" width="160" height="38" rx="11" fill="none" stroke="#e74c5a" stroke-opacity=".2"/>
+<circle cx="29" cy="24" r="13" fill="#d93025" filter="url(#glow)"/>
+<path d="M20 19l9 7 9-7v11H20z" fill="white"/>
+<path d="M20 19l9 7 9-7" fill="none" stroke="white" stroke-width="2"/>
+<text x="51" y="29" font-family="Arial" font-size="13" font-weight="700" letter-spacing="1.2" fill="#ffe1e4">EMAIL</text>
+<circle cx="151" cy="24" r="2" fill="#e74c5a"/>
+</svg>
