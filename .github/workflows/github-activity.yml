@@ -25,12 +25,13 @@ jobs:
           import os
           import urllib.request
           import sys
+          from datetime import datetime, timezone, timedelta
 
           query = '''
-          query($login:String!) {
+          query($login:String!, $from:DateTime!, $to:DateTime!) {
             user(login:$login) {
               login
-              contributionsCollection {
+              contributionsCollection(from:$from, to:$to) {
                 contributionCalendar {
                   totalContributions
                 }
@@ -40,11 +41,18 @@ jobs:
           }
           '''
 
+          now = datetime.now(timezone.utc)
+          one_year_ago = now - timedelta(days=365)
+
+          variables = {
+              "login": os.environ["GITHUB_USER"],
+              "from": one_year_ago.isoformat().replace("+00:00", "Z"),
+              "to": now.isoformat().replace("+00:00", "Z"),
+          }
+
           body = json.dumps({
               "query": query,
-              "variables": {
-                  "login": os.environ["GITHUB_USER"]
-              }
+              "variables": variables
           }).encode()
 
           req = urllib.request.Request(
@@ -67,11 +75,11 @@ jobs:
               print(json.dumps(payload["errors"], indent=2))
               sys.exit("GraphQL returned errors")
 
-          if not payload.get("data") or not payload["data"].get("user"):
-              print(json.dumps(payload, indent=2))
-              sys.exit("GitHub user data missing")
-
           user = payload["data"]["user"]
+
+          if not user:
+              sys.exit("GitHub user not found")
+
           data = user["contributionsCollection"]
 
           contributions = data["contributionCalendar"]["totalContributions"]
@@ -175,11 +183,6 @@ jobs:
               f.write(svg)
 
           print("SVG generated successfully.")
-
-      - name: Show generated values
-        run: |
-          echo "=== Generated SVG values ==="
-          grep -oE '>[-]?[0-9]+</text>' assets/github-activity.svg || true
 
       - name: Commit update
         run: |
