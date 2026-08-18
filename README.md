@@ -1,18 +1,27 @@
 <div align="center">
 
 <a href="https://github.com/LOGESH-7M">
-  <img src="./assets/hero.svg" alt="Logesh M — CSE, Cloud and DevOps" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=5B9CFF&center=true&vCenter=true&width=900&lines=LOGESH+M;CSE+%7C+Cloud+%26+DevOps+Enthusiast;Building+from+Code+to+Cloud;Backend+%7C+Infrastructure+%7C+Systems" alt="Animated typing header"/>
 </a>
 
-### `LOGESH M`
+<br/>
 
 **B.Tech CSE · VIT Vellore · 2nd Year / 3rd Semester**
 
-`CSE` · `Cloud` · `DevOps`
+`CSE` · `Cloud` · `DevOps` · `Backend` · `Linux` · `Networking`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b0f14?style=for-the-badge&logo=linkedin&logoColor=5b9cff)](https://www.linkedin.com/in/logesh07mvit/)
-[![Email](https://img.shields.io/badge/Email-0b0f14?style=for-the-badge&logo=gmail&logoColor=5b9cff)](mailto:logesh07m@gmail.com)
+<br/>
 
+<a href="https://www.linkedin.com/in/logesh07mvit/"><img src="https://img.shields.io/badge/LINKEDIN-0b0f14?style=for-the-badge&logo=linkedin&logoColor=5b9cff" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/LOGESH__M/"><img src="https://img.shields.io/badge/LEETCODE-0b0f14?style=for-the-badge&logo=leetcode&logoColor=f0a050" alt="LeetCode"/></a>
+<a href="mailto:logesh07m@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0b0f14?style=for-the-badge&logo=gmail&logoColor=5b9cff" alt="Email"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="./assets/profile-atmosphere.svg" alt="Cloud and infrastructure atmosphere" width="100%"/>
 </div>
 
 ---
@@ -20,10 +29,6 @@
 <div align="center">
 
 ### ⚡ TECHNOLOGY UNIVERSE
-
-<img src="./assets/tech-universe.svg" alt="Technology constellation" width="100%"/>
-
-<br/>
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,html,css,js,git,github,linux,aws,docker,flask,postgres&perline=8" alt="Technology icons"/>
 
@@ -54,7 +59,13 @@
 ### ◇ LEETCODE
 
 <a href="https://leetcode.com/u/LOGESH__M/">
-  <img src="https://leetcard.jacoblin.cool/LOGESH__M?theme=dark&font=Baloo&ext=activity,contest,heatmap" alt="Logesh M LeetCode statistics"/>
+<img src="https://leetcard.jacoblin.cool/LOGESH__M?theme=dark&font=Baloo&ext=contest" alt="LeetCode contest statistics"/>
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/LOGESH__M/">
+<img src="https://leetcard.jacoblin.cool/LOGESH__M?theme=dark&font=Baloo&ext=activity" alt="LeetCode activity"/>
 </a>
 
 </div>
@@ -63,12 +74,14 @@
 
 <div align="center">
 
-### CONNECT
+<sub>Code → Cloud → Systems</sub>
 
-[LinkedIn](https://www.linkedin.com/in/logesh07mvit/) · [LeetCode](https://leetcode.com/u/LOGESH__M/) · [Email](mailto:logesh07m@gmail.com)
+<br/><br/>
 
-<br/>
-
-<sub>Building from code to cloud — one system at a time.</sub>
+<a href="https://www.linkedin.com/in/logesh07mvit/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://leetcode.com/u/LOGESH__M/">LeetCode</a>
+&nbsp;·&nbsp;
+<a href="mailto:logesh07m@gmail.com">Email</a>
 
 </div>
