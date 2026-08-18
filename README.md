@@ -65,7 +65,7 @@
 
 <!-- If GitHub still renders the icons with a tiny underline, use the local SVGs instead: -->
 
----
+
 
 <div align="center">
 
@@ -73,16 +73,18 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/logesh07mvit/">
+<a href="https://www.linkedin.com/in/logesh07mvit/" style="text-decoration:none;">
   <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2" width="34" height="34" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/LOGESH__M/">
+<a href="https://leetcode.com/u/LOGESH__M/" style="text-decoration:none;">
   <img src="https://api.iconify.design/simple-icons/leetcode.svg?color=%23FFA116" width="34" height="34" alt="LeetCode"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:logesh07m@gmail.com">
+<a href="mailto:logesh07m@gmail.com" style="text-decoration:none;">
   <img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335" width="34" height="34" alt="Email"/>
 </a>
 
 </div>
+
+
