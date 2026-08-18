@@ -60,13 +60,15 @@
 
 </div>
 
+<div align="center">
+
 ### LEETCODE
 
 <a href="https://leetcode.com/u/LOGESH__M/">
-<img src="https://leetcard.jacoblin.cool/LOGESH__M?theme=dark&font=Baloo&ext=contest" alt="LeetCode contest statistics"/>
+  <img src="https://leetcard.jacoblin.cool/LOGESH__M?theme=dark&font=Baloo&ext=contest" alt="LeetCode contest statistics"/>
 </a>
 
-<br/><br/>
+</div>
 
 
 
