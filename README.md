@@ -42,15 +42,23 @@
 
 ### GITHUB ACTIVITY
 
-<a href="https://github.com/LOGESH-7M">
-<img src="https://github-readme-stats.vercel.app/api?username=LOGESH-7M&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&custom_title=" alt="GitHub activity statistics"/>
-</a>
+<img src="./assets/github-activity.svg"
+     alt="GitHub contributions and commits"
+     width="760"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/LOGESH-7M/LOGESH-7M/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/LOGESH-7M/LOGESH-7M/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/LOGESH-7M/LOGESH-7M/output/github-snake.svg"
+       alt="GitHub contribution snake"
+       width="100%"/>
+</picture>
 
 </div>
-
----
-
-<div align="center">
 
 ### LEETCODE
 
