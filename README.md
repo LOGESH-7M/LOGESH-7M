@@ -14,17 +14,21 @@
 
 <div align="center">
 
+<div align="center">
+
 <a href="https://www.linkedin.com/in/logesh07mvit/">
-<img src="https://img.shields.io/badge/LinkedIn-0B0F14?style=flat&logo=linkedin&logoColor=5B9CFF&labelColor=151D26" />
+  <img src="https://img.shields.io/badge/LinkedIn-0b0f14?style=social&logo=linkedin&logoColor=5B9CFF" alt="LinkedIn"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://leetcode.com/u/LOGESH__M/">
-<img src="https://img.shields.io/badge/LeetCode-0B0F14?style=flat&logo=leetcode&logoColor=FFA116&labelColor=151D26" />
+  <img src="https://img.shields.io/badge/LeetCode-0b0f14?style=social&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:logesh07m@gmail.com">
-<img src="https://img.shields.io/badge/Email-0B0F14?style=flat&logo=gmail&logoColor=EA4335&labelColor=151D26" />
+  <img src="https://img.shields.io/badge/Email-0b0f14?style=social&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
+
+</div>
 
 </div>
 </div>
