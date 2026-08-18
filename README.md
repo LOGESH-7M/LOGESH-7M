@@ -6,16 +6,27 @@
 
 <br/>
 
-**B.Tech CSE · VIT Vellore · 2nd Year / 3rd Semester**
+**B.Tech CSE · VIT Vellore · 3rd Sem**
 
 `CSE` · `Cloud` · `DevOps` · `Backend` · `Linux` · `Networking`
 
 <br/>
 
-<a href="https://www.linkedin.com/in/logesh07mvit/"><img src="https://img.shields.io/badge/LINKEDIN-0b0f14?style=for-the-badge&logo=linkedin&logoColor=5b9cff" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/LOGESH__M/"><img src="https://img.shields.io/badge/LEETCODE-0b0f14?style=for-the-badge&logo=leetcode&logoColor=f0a050" alt="LeetCode"/></a>
-<a href="mailto:logesh07m@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0b0f14?style=for-the-badge&logo=gmail&logoColor=5b9cff" alt="Email"/></a>
+<div align="center">
 
+<a href="https://www.linkedin.com/in/logesh07mvit/">
+<img src="https://img.shields.io/badge/LinkedIn-0B0F14?style=flat&logo=linkedin&logoColor=5B9CFF&labelColor=151D26" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/LOGESH__M/">
+<img src="https://img.shields.io/badge/LeetCode-0B0F14?style=flat&logo=leetcode&logoColor=FFA116&labelColor=151D26" />
+</a>
+&nbsp;
+<a href="mailto:logesh07m@gmail.com">
+<img src="https://img.shields.io/badge/Email-0B0F14?style=flat&logo=gmail&logoColor=EA4335&labelColor=151D26" />
+</a>
+
+</div>
 </div>
 
 <br/>
