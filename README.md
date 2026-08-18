@@ -74,15 +74,15 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/logesh07mvit/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" alt="LinkedIn"/>
+  <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2" width="34" height="34" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/LOGESH__M/">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="34" alt="LeetCode"/>
+  <img src="https://api.iconify.design/simple-icons/leetcode.svg?color=%23FFA116" width="34" height="34" alt="LeetCode"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:logesh07m@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" alt="Email"/>
+  <img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335" width="34" height="34" alt="Email"/>
 </a>
 
 </div>
