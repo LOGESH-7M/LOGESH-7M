@@ -47,7 +47,7 @@
 
 <div align="center">
 
-### ◈ GITHUB ACTIVITY
+### GITHUB ACTIVITY
 
 <img src="./assets/github-activity.svg" alt="GitHub contributions and commit activity" width="100%"/>
 
@@ -65,7 +65,7 @@
 
 <div align="center">
 
-### ◇ LEETCODE
+### LEETCODE
 
 <a href="https://leetcode.com/u/LOGESH__M/">
 <img src="https://leetcard.jacoblin.cool/LOGESH__M?theme=dark&font=Baloo&ext=contest" alt="LeetCode contest statistics"/>
