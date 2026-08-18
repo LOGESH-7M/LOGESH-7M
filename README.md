@@ -28,7 +28,7 @@
 
 <div align="center">
 
-### ⚡ TECHNOLOGY UNIVERSE
+###  TECH • STACK
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,html,css,js,git,github,linux,aws,docker,flask,postgres&perline=8" alt="Technology icons"/>
 
