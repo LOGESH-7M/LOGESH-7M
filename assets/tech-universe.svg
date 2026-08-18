@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 520" role="img">
+<defs><linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4dd9ff"/><stop offset="1" stop-color="#9b7cff"/></linearGradient></defs>
+<rect width="1400" height="520" rx="24" fill="#0b0f14"/>
+<g fill="none" stroke="url(#line)" stroke-width="2" opacity=".45">
+<path d="M700 260L190 110M700 260L360 80M700 260L570 95M700 260L830 80M700 260L1040 110M700 260L1210 175M700 260L170 350M700 260L350 430M700 260L540 430M700 260L860 430M700 260L1050 425M700 260L1230 350M700 260L700 90"/>
+</g>
+<g fill="#4dd9ff">
+<circle cx="700" cy="260" r="9"/><circle cx="190" cy="110" r="5"/><circle cx="360" cy="80" r="5"/><circle cx="570" cy="95" r="5"/><circle cx="830" cy="80" r="5"/><circle cx="1040" cy="110" r="5"/><circle cx="1210" cy="175" r="5"/><circle cx="170" cy="350" r="5"/><circle cx="350" cy="430" r="5"/><circle cx="540" cy="430" r="5"/><circle cx="860" cy="430" r="5"/><circle cx="1050" cy="425" r="5"/><circle cx="1230" cy="350" r="5"/><circle cx="700" cy="90" r="5"/>
+</g>
+<g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+<text x="700" y="252" fill="#f4f7fb" font-size="24" font-weight="700">LOGESH M</text>
+<text x="700" y="278" fill="#7f96b3" font-size="12" letter-spacing="3">TECH STACK</text>
+<g fill="#dbe8f7" font-size="19" font-weight="600">
+<text x="190" y="105">C</text><text x="360" y="75">C++</text><text x="570" y="90">Java</text><text x="830" y="75">Python</text><text x="1040" y="105">SQL</text><text x="1210" y="170">HTML</text>
+<text x="170" y="345">CSS</text><text x="350" y="425">JavaScript</text><text x="540" y="425">Git</text><text x="860" y="425">GitHub</text><text x="1050" y="420">Linux</text><text x="1230" y="345">AWS</text><text x="700" y="85">Docker</text>
+</g>
+<text x="700" y="505" fill="#5b9cff" font-size="13" letter-spacing="3">FLASK · POSTGRESQL · NETWORKING</text>
+</g>
+</svg>
