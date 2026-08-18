@@ -9,21 +9,6 @@
 **B.Tech CSE · VIT Vellore · 3rd Sem**
 
 `CSE` · `Cloud` · `DevOps` · `Backend` · `Linux` · `Networking`
-
-<br/>
-
-<a href="https://www.linkedin.com/in/logesh07mvit/">
-<img src="./assets/linkedin.svg" width="170" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/u/LOGESH__M/">
-<img src="./assets/leetcode.svg" width="170" alt="LeetCode"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:logesh07m@gmail.com">
-<img src="./assets/email.svg" width="170" alt="Email"/>
-</a>
-
 </div>
 
 ---
@@ -70,3 +55,15 @@
 </a>
 
 </div>
+---
+<a href="https://www.linkedin.com/in/logesh07mvit/">
+<img src="./assets/linkedin.svg" width="170" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/LOGESH__M/">
+<img src="./assets/leetcode.svg" width="170" alt="LeetCode"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:logesh07m@gmail.com">
+<img src="./assets/email.svg" width="170" alt="Email"/>
+</a>
