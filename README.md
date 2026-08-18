@@ -68,11 +68,7 @@
 
 <br/><br/>
 
-<a href="https://leetcode.com/u/LOGESH__M/">
-<img src="https://leetcard.jacoblin.cool/LOGESH__M?theme=dark&font=Baloo&ext=activity" alt="LeetCode activity"/>
-</a>
 
-</div>
 
 ---
 
