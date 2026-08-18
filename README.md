@@ -58,7 +58,7 @@
 
 <div align="center">
 <hr>
-### CONNECT
+CONNECT
 
 <br/>
 
