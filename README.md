@@ -55,9 +55,8 @@
 </a>
 
 </div>
----
 <div align="center">
-
+---
 ### CONNECT
 
 <br/>
