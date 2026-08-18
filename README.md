@@ -57,7 +57,7 @@
 </div>
 
 <div align="center">
----
+<hr>
 ### CONNECT
 
 <br/>
