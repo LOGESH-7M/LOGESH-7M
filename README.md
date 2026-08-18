@@ -65,8 +65,7 @@
 <br/><br/>
 
 <a href="https://leetcode.com/u/LOGESH__M/">
-<img src="https://leetcard.jacoblin.cool/LOGESH__M?theme=dark&font=Baloo&ext=activity" alt="LeetCode activity"/>
-</a>
+
 
 </div>
 
@@ -77,11 +76,5 @@
 <sub>Code → Cloud → Systems</sub>
 
 <br/><br/>
-
-<a href="https://www.linkedin.com/in/logesh07mvit/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://leetcode.com/u/LOGESH__M/">LeetCode</a>
-&nbsp;·&nbsp;
-<a href="mailto:logesh07m@gmail.com">Email</a>
 
 </div>
